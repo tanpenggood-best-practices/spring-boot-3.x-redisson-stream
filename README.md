@@ -1,6 +1,6 @@
 ## Spring Boot 3.x Redisson Stream
 
-I use the best practices of Redis stream in spring boot 3.x and redisson.
+My best practices for operating Redis stream with redisson client in Spring Boot 3.x
 
 ### Feature
 
